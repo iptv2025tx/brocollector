@@ -1,25 +1,3 @@
-Group: 
-Name: Runtime Clásicos
-URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_clasicos_16x9.jpg
-Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
---------------------------------------------------
-Name: Cines Verdi
-URL: https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg
-Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
---------------------------------------------------
-Name: FeelGood
-URL: https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg
-Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
---------------------------------------------------
-Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=217.216.126.63
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
-Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
---------------------------------------------------
-
 Group: Cocina
 Name: Gusto TV
 URL: https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=cooking&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.80&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=4114&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=a5802f89-e6ba-446b-a55a-6c0494cfe182&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=858
