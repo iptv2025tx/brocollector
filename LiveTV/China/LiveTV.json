@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25 22:36:14",
+  "date": "2026-03-26 14:22:45",
   "channels": {
     "Uncategorized": [
       {
@@ -3944,7 +3944,7 @@
         "url": "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8"
       },
       {
-        "name": "2026-03-25 18:26:41",
+        "name": "2026-03-26 12:26:02",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
@@ -4007,13 +4007,6 @@
         "url": "https://goodiptv.club/douyu/8881729"
       },
       {
-        "name": "AK萌虎",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4049310"
-      },
-      {
         "name": "AMC电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -4035,13 +4028,6 @@
         "url": "https://goodiptv.club/douyu/9617766"
       },
       {
-        "name": "BetterMan北北",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8507023"
-      },
-      {
         "name": "Biu餐厅主管",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -4049,11 +4035,11 @@
         "url": "https://goodiptv.club/douyu/7921708"
       },
       {
-        "name": "BuriedAlien的号",
+        "name": "BobMarley1234",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9440728"
+        "url": "https://goodiptv.club/douyu/10871570"
       },
       {
         "name": "CCTV-8K 超高清",
@@ -4172,14 +4158,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://58.57.40.22:9901/tsfile/live/1012_1.m3u8"
+        "url": "http://23.237.228.134/live3/CCTV12.m3u8"
       },
       {
         "name": "CCTV12",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live3/CCTV12.m3u8"
+        "url": "http://58.57.40.22:9901/tsfile/live/1012_1.m3u8"
       },
       {
         "name": "CCTV12",
@@ -4452,6 +4438,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://58.57.40.22:9901/tsfile/live/1003_1.m3u8"
+      },
+      {
+        "name": "CCTV4",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://74.91.26.218:82/live/cctv4hd.m3u8"
       },
       {
@@ -4474,13 +4467,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/67/index.m3u8"
-      },
-      {
-        "name": "CCTV4",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000063.m3u8"
       },
       {
         "name": "CCTV5",
@@ -4770,13 +4756,6 @@
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
       },
       {
-        "name": "CCTV第一剧场",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://tl.061833.xyz/tl/null-6"
-      },
-      {
         "name": "CCTV风云足球",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -4789,13 +4768,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
-      },
-      {
-        "name": "CF柒年",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9087887"
       },
       {
         "name": "CGTN",
@@ -4875,13 +4847,6 @@
         "url": "http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub"
       },
       {
-        "name": "CHC动作电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.32.12.17:2901/udp/224.1.100.131:11111"
-      },
-      {
         "name": "CHC家庭影院",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -4922,6 +4887,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1060418"
+      },
+      {
+        "name": "C大兄弟",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/7134757"
       },
       {
         "name": "C座802",
@@ -4980,13 +4952,6 @@
         "url": "https://goodiptv.club/douyu/9456379"
       },
       {
-        "name": "JG影视解说",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9391277"
-      },
-      {
         "name": "JJ斗地主",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5015,13 +4980,6 @@
         "url": "https://goodiptv.club/douyu/2660125"
       },
       {
-        "name": "KBShinya",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8970851"
-      },
-      {
         "name": "KUMA轻松熊博士",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5029,25 +4987,11 @@
         "url": "https://goodiptv.club/douyu/2282604"
       },
       {
-        "name": "KyoKyo不是QQ",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4732337"
-      },
-      {
         "name": "LCPD拉登",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9503015"
-      },
-      {
-        "name": "LOUIS樱",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9235284"
       },
       {
         "name": "LR1245",
@@ -5069,20 +5013,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9488836"
-      },
-      {
-        "name": "Melo的健身课堂",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9306609"
-      },
-      {
-        "name": "Michael说大片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8841881"
       },
       {
         "name": "MordonFreeman是谁",
@@ -5134,13 +5064,6 @@
         "url": "https://goodiptv.club/douyu/9837291"
       },
       {
-        "name": "PhantomStrider",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9683911"
-      },
-      {
         "name": "Poison丶冰冰",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5162,13 +5085,6 @@
         "url": "https://goodiptv.club/douyu/1039732"
       },
       {
-        "name": "RNDxc",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4585643"
-      },
-      {
         "name": "Rabbit每日爆料",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5183,32 +5099,11 @@
         "url": "https://goodiptv.club/douyu/9645396"
       },
       {
-        "name": "SAO东西又再说SAO话",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8833450"
-      },
-      {
         "name": "SH11N",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9650451"
-      },
-      {
-        "name": "SKYE魏",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9460834"
-      },
-      {
-        "name": "Starshine刹那",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9191006"
       },
       {
         "name": "Svip丶YoYo",
@@ -5239,13 +5134,6 @@
         "url": "https://goodiptv.club/douyu/9392433"
       },
       {
-        "name": "UP主DJC",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9429545"
-      },
-      {
         "name": "WANJINNY",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5260,32 +5148,11 @@
         "url": "https://goodiptv.club/douyu/9480767"
       },
       {
-        "name": "XCin888",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3617935"
-      },
-      {
-        "name": "YIKa777",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8868213"
-      },
-      {
         "name": "a5dmin",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1102973"
-      },
-      {
-        "name": "a萌小翘臀",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/7552568"
       },
       {
         "name": "baby丶贝贝",
@@ -5314,13 +5181,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10039437"
-      },
-      {
-        "name": "epcdiy",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8759268"
       },
       {
         "name": "e尔袏",
@@ -5365,13 +5225,6 @@
         "url": "https://goodiptv.club/douyu/8461020"
       },
       {
-        "name": "mad叶月Mashiro灬",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9192932"
-      },
-      {
         "name": "mzx阿哲",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5379,25 +5232,11 @@
         "url": "https://goodiptv.club/douyu/9483965"
       },
       {
-        "name": "py86阿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8849954"
-      },
-      {
         "name": "sekai的光子",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9564766"
-      },
-      {
-        "name": "shhher",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8733680"
       },
       {
         "name": "sweet夏有甜",
@@ -5449,13 +5288,6 @@
         "url": "https://goodiptv.club/douyu/10050914"
       },
       {
-        "name": "一束光开始",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8662684"
-      },
-      {
         "name": "一条正弦sin",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5484,20 +5316,6 @@
         "url": "https://goodiptv.club/douyu/3643605"
       },
       {
-        "name": "一颗咕咕星",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9388557"
-      },
-      {
-        "name": "一颗糖糖canddy",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9192852"
-      },
-      {
         "name": "七台河新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5510,13 +5328,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8"
-      },
-      {
-        "name": "七龙珠",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.metshop.top/huya/11601966"
       },
       {
         "name": "万事通熊猫",
@@ -5554,13 +5365,6 @@
         "url": "https://goodiptv.club/douyu/9457792"
       },
       {
-        "name": "三个老爸实验室",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9090487"
-      },
-      {
         "name": "三代鹿人v",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -5573,13 +5377,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/12253936"
-      },
-      {
-        "name": "三斤呦",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9047933"
       },
       {
         "name": "三新动漫",
@@ -5615,13 +5412,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub"
-      },
-      {
-        "name": "上来先丢大v",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9566154"
       },
       {
         "name": "上海新闻综合",
@@ -5699,13 +5489,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10319545"
-      },
-      {
-        "name": "不会骑马的健身少年",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8862198"
       },
       {
         "name": "不思异剧场",
@@ -5796,6 +5579,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8"
+      },
+      {
+        "name": "东方卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8"
       },
       {
@@ -5811,13 +5601,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/114/index.m3u8"
-      },
-      {
-        "name": "东方卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000093.m3u8"
       },
       {
         "name": "东方卫视4K",
@@ -5873,14 +5656,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.metshop.top/huya/11342413"
+        "url": "https://live.iill.top/huya/11342413"
       },
       {
         "name": "中华小当家",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.iill.top/huya/11342413"
+        "url": "https://live.metshop.top/huya/11342413"
       },
       {
         "name": "中华特产",
@@ -5960,34 +5743,6 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
       },
       {
-        "name": "丶最紧要好玩",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6361974"
-      },
-      {
-        "name": "丶清风浊酒丶",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5918434"
-      },
-      {
-        "name": "主播拍个肚皮",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9387499"
-      },
-      {
-        "name": "丽姐说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9437283"
-      },
-      {
         "name": "丽江古城万古楼遥望玉龙雪山",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6007,13 +5762,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8"
-      },
-      {
-        "name": "久远丶酱",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9046649"
       },
       {
         "name": "义乌新闻综合",
@@ -6114,13 +5862,6 @@
         "url": "https://goodiptv.club/douyu/8669085"
       },
       {
-        "name": "九冢嵬",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9393501"
-      },
-      {
         "name": "九叔说电影v",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6168,13 +5909,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/8778280"
-      },
-      {
-        "name": "二次元fans鹿鹿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8661526"
       },
       {
         "name": "二胖影视",
@@ -6244,14 +5978,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/52/index.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/36/index.m3u8"
       },
       {
         "name": "云南卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000482.m3u8"
+        "url": "http://183.11.239.36:808/hls/52/index.m3u8"
       },
       {
         "name": "云南大理崇圣寺三塔中景",
@@ -6338,6 +6072,13 @@
         "url": "http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,"
       },
       {
+        "name": "五分钟电影汇",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/8443438"
+      },
+      {
         "name": "五彩池",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6364,13 +6105,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10329324"
-      },
-      {
-        "name": "亮亮也是酿酿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4340136"
       },
       {
         "name": "亳州农村",
@@ -6427,13 +6161,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/8892864"
-      },
-      {
-        "name": "什邡新闻",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd"
       },
       {
         "name": "仁寿综合",
@@ -6513,20 +6240,6 @@
         "url": "http://120.76.248.139/live/bfgd/4200000153.m3u8"
       },
       {
-        "name": "优漫卡通",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.32.12.17:2901/udp/224.1.100.119:11111"
-      },
-      {
-        "name": "伦帝电影说",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9368091"
-      },
-      {
         "name": "伯乐说电影V",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6597,20 +6310,6 @@
         "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed"
       },
       {
-        "name": "佛曰影视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9671758"
-      },
-      {
-        "name": "你的瑜伽女孩",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10205199"
-      },
-      {
         "name": "你真像个小丑",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6618,25 +6317,11 @@
         "url": "https://goodiptv.club/douyu/10730187"
       },
       {
-        "name": "你顶亲亲的前女友",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8896746"
-      },
-      {
         "name": "侃片大师兄",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9338839"
-      },
-      {
-        "name": "侃片黑菠萝",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5803764"
       },
       {
         "name": "俗哥看电影",
@@ -6709,13 +6394,6 @@
         "url": "https://goodiptv.club/douyu/4373285"
       },
       {
-        "name": "光之镇魂曲",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12684513"
-      },
-      {
         "name": "光山综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6742,13 +6420,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/8266799"
-      },
-      {
-        "name": "八幡老师1",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9272043"
       },
       {
         "name": "八月看大片",
@@ -6835,13 +6506,6 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?"
       },
       {
-        "name": "关云猖",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8820996"
-      },
-      {
         "name": "兵器科技",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6905,13 +6569,6 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
       },
       {
-        "name": "内蒙卡秋",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9067858"
-      },
-      {
         "name": "内蒙古卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -6937,14 +6594,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://182.150.23.74:808/hls/37/index.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/44/index.m3u8"
       },
       {
         "name": "内蒙古卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://123.130.84.106:8154/tsfile/live/0109_1.m3u8"
+        "url": "http://182.150.23.74:808/hls/37/index.m3u8"
       },
       {
         "name": "内蒙古欢乐驿站",
@@ -6973,20 +6630,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend"
-      },
-      {
-        "name": "农村一级野钓大师",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9433591"
-      },
-      {
-        "name": "农村幺妹儿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9344884"
       },
       {
         "name": "农林卫视",
@@ -7045,13 +6688,6 @@
         "url": "http://www.goodiptv.club/douyu/74374"
       },
       {
-        "name": "冰糖葫芦没放盐V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3505453"
-      },
-      {
         "name": "冷君聊大片",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -7064,13 +6700,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9527761"
-      },
-      {
-        "name": "几号房间",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8829425"
       },
       {
         "name": "凤凰中文",
@@ -7178,13 +6807,6 @@
         "url": "https://goodiptv.club/douyu/9550226"
       },
       {
-        "name": "前任电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9329242"
-      },
-      {
         "name": "剑阁综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -7213,13 +6835,6 @@
         "url": "https://goodiptv.club/douyu/1739752"
       },
       {
-        "name": "功夫联盟2020",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9169624"
-      },
-      {
         "name": "动漫推荐i",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -7227,18 +6842,11 @@
         "url": "https://goodiptv.club/douyu/5187099"
       },
       {
-        "name": "动物启示录",
+        "name": "动画大师姐",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9443129"
-      },
-      {
-        "name": "动画魂",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9393242"
+        "url": "https://goodiptv.club/douyu/9742136"
       },
       {
         "name": "助眠师海宝宝",
@@ -7246,13 +6854,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1103328"
-      },
-      {
-        "name": "励志少年派",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8700367"
       },
       {
         "name": "勇敢的荒野人",
@@ -7273,7 +6874,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8"
+        "url": "http://23.237.228.134/live3/beijing.m3u8"
       },
       {
         "name": "北京卫视",
@@ -7294,21 +6895,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://23.237.228.134/live3/beijing.m3u8"
+        "url": "http://124.116.183.146:9901/tsfile/live/0122_1.m3u8"
       },
       {
         "name": "北京卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://124.116.183.146:9901/tsfile/live/0122_1.m3u8"
-      },
-      {
-        "name": "北京卫视4K超",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "url": "http://183.11.239.36:808/hls/41/index.m3u8"
       },
       {
         "name": "北京大妈有话说er",
@@ -7360,13 +6954,6 @@
         "url": "http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8"
       },
       {
-        "name": "北大落说大片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8828811"
-      },
-      {
         "name": "北海新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -7400,13 +6987,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/7481383"
-      },
-      {
-        "name": "半藏同学",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9372627"
       },
       {
         "name": "华白雨",
@@ -7598,18 +7178,11 @@
         "url": "https://goodiptv.club/douyu/9561992"
       },
       {
-        "name": "卡密密尼",
+        "name": "卡酷少儿",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9013989"
-      },
-      {
-        "name": "卡皮君本人",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9050486"
+        "url": "https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8"
       },
       {
         "name": "卡酷少儿",
@@ -7624,13 +7197,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://218.13.170.98:9901/tsfile/live/1021_1.m3u8"
-      },
-      {
-        "name": "卡酷少儿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8"
       },
       {
         "name": "卫辉综合",
@@ -7708,13 +7274,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9570290"
-      },
-      {
-        "name": "双笙陈元汐",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6476693"
       },
       {
         "name": "双辽",
@@ -7850,20 +7409,6 @@
         "url": "https://goodiptv.club/douyu/9517351"
       },
       {
-        "name": "吃草莓的果子狸V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9382395"
-      },
-      {
-        "name": "吃鸡小表弟",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9370197"
-      },
-      {
         "name": "合肥新闻",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -7896,6 +7441,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/41/index.m3u8"
+      },
+      {
+        "name": "吉林卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/10/index.m3u8"
       },
       {
@@ -7904,13 +7456,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://120.76.248.139/live/bfgd/4200000097.m3u8"
-      },
-      {
-        "name": "吉林卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://182.150.23.74:808/hls/35/index.m3u8"
       },
       {
         "name": "同同电影",
@@ -7953,27 +7498,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1732550"
-      },
-      {
-        "name": "君笑坊",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9444093"
-      },
-      {
-        "name": "吟游诗人基德",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9337049"
-      },
-      {
-        "name": "吟笑派",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/2987100"
       },
       {
         "name": "听wo姐说",
@@ -8088,18 +7612,18 @@
         "url": "https://goodiptv.club/douyu/8808506"
       },
       {
-        "name": "哈利影视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8475821"
-      },
-      {
         "name": "哈密一套",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv"
+      },
+      {
+        "name": "哈密三套",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8"
       },
       {
         "name": "哈密二套",
@@ -8163,20 +7687,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild"
-      },
-      {
-        "name": "哲忆丶",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8977251"
-      },
-      {
-        "name": "唐人探影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10371561"
       },
       {
         "name": "唐司令说电影",
@@ -8284,11 +7794,11 @@
         "url": "https://goodiptv.club/douyu/10217984"
       },
       {
-        "name": "噬元兽影视",
+        "name": "四叶草影视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8896723"
+        "url": "https://goodiptv.club/douyu/9446117"
       },
       {
         "name": "四川卫视",
@@ -8368,13 +7878,6 @@
         "url": "https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8"
       },
       {
-        "name": "四川科教",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8"
-      },
-      {
         "name": "四海钓鱼",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -8429,6 +7932,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1952680"
+      },
+      {
+        "name": "在下小苏Su",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/8658051"
       },
       {
         "name": "地理中国",
@@ -8501,25 +8011,11 @@
         "url": "https://goodiptv.club/douyu/9498506"
       },
       {
-        "name": "夙瑶瑾",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9450568"
-      },
-      {
         "name": "多发几个思雨",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/7256376"
-      },
-      {
-        "name": "多多其木格",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9075374"
       },
       {
         "name": "多多看车",
@@ -8543,25 +8039,11 @@
         "url": "https://goodiptv.club/douyu/9734515"
       },
       {
-        "name": "大力学姐",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8784719"
-      },
-      {
         "name": "大坑侦探社",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9440339"
-      },
-      {
-        "name": "大壮撞电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9437349"
       },
       {
         "name": "大宁综合",
@@ -8583,13 +8065,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9477316"
-      },
-      {
-        "name": "大汁猪",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9191071"
       },
       {
         "name": "大河庄一世繁华",
@@ -8648,20 +8123,6 @@
         "url": "https://goodiptv.club/douyu/10329300"
       },
       {
-        "name": "大米饭影视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9824094"
-      },
-      {
-        "name": "大胡子魏",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8792763"
-      },
-      {
         "name": "大荒电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -8683,11 +8144,11 @@
         "url": "https://goodiptv.club/douyu/8747638"
       },
       {
-        "name": "大雪压晴松",
+        "name": "大黄喵吖",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12618544"
+        "url": "https://goodiptv.club/douyu/12392971"
       },
       {
         "name": "天JIANG",
@@ -8837,25 +8298,11 @@
         "url": "https://goodiptv.club/douyu/953193"
       },
       {
-        "name": "奇妙博物馆",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9409723"
-      },
-      {
         "name": "奇怪电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9440966"
-      },
-      {
-        "name": "奇趣研究",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8661456"
       },
       {
         "name": "奎屯哈萨克语",
@@ -8886,20 +8333,6 @@
         "url": "https://goodiptv.club/douyu/11327316"
       },
       {
-        "name": "女汉子说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9395966"
-      },
-      {
-        "name": "女王泡面V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9369937"
-      },
-      {
         "name": "女神撩电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -8921,13 +8354,6 @@
         "url": "https://goodiptv.club/douyu/9388938"
       },
       {
-        "name": "妈见打ovo",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9413151"
-      },
-      {
         "name": "娱乐扒叔",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -8947,20 +8373,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9464182"
-      },
-      {
-        "name": "孙毛毛Suny",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9424103"
-      },
-      {
-        "name": "学徒郭昱麟",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8871095"
       },
       {
         "name": "宁夏卫视",
@@ -8988,14 +8400,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000118.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/45/index.m3u8"
       },
       {
         "name": "宁夏卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://222.169.85.8:9901/tsfile/live/0112_1.m3u8"
+        "url": "http://120.76.248.139/live/bfgd/4200000118.m3u8"
       },
       {
         "name": "宁夏经济",
@@ -9152,13 +8564,6 @@
         "url": "https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8"
       },
       {
-        "name": "安琪儿的羽翼",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9388783"
-      },
-      {
         "name": "安顺新闻",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9257,13 +8662,6 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend"
       },
       {
-        "name": "宝蓝和朋友们",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9283356"
-      },
-      {
         "name": "宾阳综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9278,13 +8676,6 @@
         "url": "https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8"
       },
       {
-        "name": "将军侃片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8529736"
-      },
-      {
         "name": "尉迟杰影评",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9297,20 +8688,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9974197"
-      },
-      {
-        "name": "小三笠笠酱",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9188696"
-      },
-      {
-        "name": "小丽说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9368016"
       },
       {
         "name": "小乔讲电影",
@@ -9360,13 +8737,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9606954"
-      },
-      {
-        "name": "小姐姐Bie跑哦",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8666258"
       },
       {
         "name": "小姐姐不记得",
@@ -9474,27 +8844,6 @@
         "url": "https://goodiptv.club/douyu/8415464"
       },
       {
-        "name": "小爱看大片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9312805"
-      },
-      {
-        "name": "小片片说大片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4258555"
-      },
-      {
-        "name": "小片片说大片二台",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10011547"
-      },
-      {
         "name": "小猪优版剧院",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9523,25 +8872,11 @@
         "url": "https://goodiptv.club/douyu/9738854"
       },
       {
-        "name": "小羊放映室",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9433806"
-      },
-      {
         "name": "小艾大叔",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9314668"
-      },
-      {
-        "name": "小超讲电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3432645"
       },
       {
         "name": "小铁房乐队",
@@ -9556,13 +8891,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9527700"
-      },
-      {
-        "name": "小青放映社",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9314689"
       },
       {
         "name": "小馒头叫包几",
@@ -9607,20 +8935,6 @@
         "url": "https://goodiptv.club/douyu/9445557"
       },
       {
-        "name": "少年看电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8762120"
-      },
-      {
-        "name": "少年阿虎233",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9396762"
-      },
-      {
         "name": "少打白骨精",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9654,13 +8968,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9461930"
-      },
-      {
-        "name": "山下智博official",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9186596"
       },
       {
         "name": "山东卫视",
@@ -9731,13 +9038,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true"
-      },
-      {
-        "name": "山西卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8"
       },
       {
         "name": "山里记",
@@ -9852,13 +9152,6 @@
         "url": "https://goodiptv.club/douyu/1023277"
       },
       {
-        "name": "已知艺术家漫画解说",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5907076"
-      },
-      {
         "name": "师落",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -9871,13 +9164,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8"
-      },
-      {
-        "name": "幕撩电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9486015"
       },
       {
         "name": "平泉综合",
@@ -10017,13 +9303,6 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://cdn2.163189.xyz/live/gdzj/stream.m3u8"
-      },
-      {
-        "name": "广东珠江",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://gmxw.7766.org:808/hls/83/index.m3u8"
       },
       {
@@ -10032,6 +9311,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/83/index.m3u8"
+      },
+      {
+        "name": "广东珠江",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cdn2.163189.xyz/live/gdzj/stream.m3u8"
       },
       {
         "name": "广东珠江",
@@ -10129,14 +9415,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://183.11.239.36:808/hls/56/index.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/33/index.m3u8"
       },
       {
         "name": "广西卫视",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000116.m3u8"
+        "url": "http://183.11.239.36:808/hls/56/index.m3u8"
       },
       {
         "name": "广西国际",
@@ -10377,13 +9663,6 @@
         "url": "https://goodiptv.club/douyu/9759970"
       },
       {
-        "name": "张宇394795",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/7508566"
-      },
-      {
         "name": "张小莹要独立",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10398,25 +9677,11 @@
         "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8"
       },
       {
-        "name": "弹吉他的Miumiu",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4564166"
-      },
-      {
         "name": "强人说笑",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10329713"
-      },
-      {
-        "name": "当下频道",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9389239"
       },
       {
         "name": "当燕双鹰遇见李元芳",
@@ -10433,13 +9698,6 @@
         "url": "https://goodiptv.club/douyu/5875025"
       },
       {
-        "name": "影子叔V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9446338"
-      },
-      {
         "name": "影视梗大叔",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10452,13 +9710,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10298846"
-      },
-      {
-        "name": "影视英雄汇",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10240495"
       },
       {
         "name": "影视集装箱",
@@ -10482,13 +9733,6 @@
         "url": "https://goodiptv.club/douyu/3113309"
       },
       {
-        "name": "律子桑",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9371308"
-      },
-      {
         "name": "徐大sao",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10503,13 +9747,6 @@
         "url": "https://goodiptv.club/douyu/9517289"
       },
       {
-        "name": "御魔君",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9199976"
-      },
-      {
         "name": "微梦屋",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10522,20 +9759,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9476790"
-      },
-      {
-        "name": "徳彪的奇妙冒险",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9145648"
-      },
-      {
-        "name": "德井鱼",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9184833"
       },
       {
         "name": "德惠综合",
@@ -10566,13 +9789,6 @@
         "url": "http://drive.mxmy.net:8888/udp/239.3.1.164:8001"
       },
       {
-        "name": "快乐的小波子",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9039399"
-      },
-      {
         "name": "快哥说老片",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10594,13 +9810,6 @@
         "url": "https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8"
       },
       {
-        "name": "怠惰守夜",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8842108"
-      },
-      {
         "name": "怡宝妹妹丶",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10620,13 +9829,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9075333"
-      },
-      {
-        "name": "怪味爆米花电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9422144"
       },
       {
         "name": "恒山悬空寺全景",
@@ -10685,13 +9887,6 @@
         "url": "https://goodiptv.club/douyu/260322"
       },
       {
-        "name": "戏晶SHOW",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9565130"
-      },
-      {
         "name": "成县综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10720,13 +9915,6 @@
         "url": "https://goodiptv.club/douyu/9336286"
       },
       {
-        "name": "我们可爱的程程",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/329667"
-      },
-      {
         "name": "我叫孙火旺",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10739,20 +9927,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/5354705"
-      },
-      {
-        "name": "我是YOLO啊",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5077166"
-      },
-      {
-        "name": "我是一只粽子啊啊",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8867276"
       },
       {
         "name": "我是一只西瓜啊",
@@ -10804,13 +9978,6 @@
         "url": "https://goodiptv.club/douyu/1218414"
       },
       {
-        "name": "戒喵中心",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8658212"
-      },
-      {
         "name": "戴萌兔",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10830,20 +9997,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9649913"
-      },
-      {
-        "name": "打工战士SWEET",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8795660"
-      },
-      {
-        "name": "托尔兹桃花剑",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8896743"
       },
       {
         "name": "扶沟综合",
@@ -10930,13 +10083,6 @@
         "url": "https://goodiptv.club/douyu/9746763"
       },
       {
-        "name": "探秘者大正",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9330485"
-      },
-      {
         "name": "搞笑动漫大本营",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -10944,25 +10090,11 @@
         "url": "https://goodiptv.club/douyu/9650181"
       },
       {
-        "name": "搞笑天堂岛",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6916081"
-      },
-      {
         "name": "搞笑孟文明",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9766337"
-      },
-      {
-        "name": "撩电影8",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9351043"
       },
       {
         "name": "政宗君de情敌",
@@ -11252,13 +10384,6 @@
         "url": "http://120.76.248.139/live/bfgd/4200000249.m3u8"
       },
       {
-        "name": "新视角解说",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8813254"
-      },
-      {
         "name": "新野综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11306,13 +10431,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9942574"
-      },
-      {
-        "name": "无才先生",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8317571"
       },
       {
         "name": "无线星河",
@@ -11497,6 +10615,13 @@
         "url": "https://goodiptv.club/douyu/9720498"
       },
       {
+        "name": "旧梦随人心",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/692533"
+      },
+      {
         "name": "旺仔大哥哥阿",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11560,13 +10685,6 @@
         "url": "https://goodiptv.club/douyu/8014467"
       },
       {
-        "name": "星空茶茶",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8635497"
-      },
-      {
         "name": "是chshh",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11595,13 +10713,6 @@
         "url": "https://goodiptv.club/douyu/7039598"
       },
       {
-        "name": "是小x同学呀",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9415020"
-      },
-      {
         "name": "是忆昔啊",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11621,27 +10732,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9666042"
-      },
-      {
-        "name": "是脑洞君君君",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9360149"
-      },
-      {
-        "name": "晓晓666666",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/426517"
-      },
-      {
-        "name": "晓晓说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9430717"
       },
       {
         "name": "晓麦讲电影",
@@ -11721,25 +10811,11 @@
         "url": "https://goodiptv.club/douyu/10289400"
       },
       {
-        "name": "月影Yueing212",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8885525"
-      },
-      {
         "name": "月牙泉",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8"
-      },
-      {
-        "name": "有一辆立标奔驰",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12442176"
       },
       {
         "name": "有趣视频分享",
@@ -11754,13 +10830,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9736479"
-      },
-      {
-        "name": "朔涵君",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9354201"
       },
       {
         "name": "望乡台",
@@ -11805,13 +10874,6 @@
         "url": "https://goodiptv.club/douyu/9565677"
       },
       {
-        "name": "本号唯一",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12815389"
-      },
-      {
         "name": "朱一旦的枯燥生活v",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11833,39 +10895,11 @@
         "url": "https://goodiptv.club/douyu/9038894"
       },
       {
-        "name": "李李李蚊香",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4786399"
-      },
-      {
         "name": "村野趣事荟",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/5794474"
-      },
-      {
-        "name": "来呀官人V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9986305"
-      },
-      {
-        "name": "来宾综合",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8"
-      },
-      {
-        "name": "杨山羊goat",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6300365"
       },
       {
         "name": "杰克大魔王V",
@@ -11910,13 +10944,6 @@
         "url": "http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?"
       },
       {
-        "name": "林九影视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/7212528"
-      },
-      {
         "name": "林家渔妹",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -11936,20 +10963,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9607934"
-      },
-      {
-        "name": "枫泽雨畔",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5279518"
-      },
-      {
-        "name": "某声悠",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8896100"
       },
       {
         "name": "柠柠柠萌菌",
@@ -12036,20 +11049,6 @@
         "url": "https://goodiptv.club/douyu/9769563"
       },
       {
-        "name": "梦夫人啊",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9384527"
-      },
-      {
-        "name": "梦觉教游泳",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4531679"
-      },
-      {
         "name": "梨园",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12078,13 +11077,6 @@
         "url": "https://goodiptv.club/douyu/6785471"
       },
       {
-        "name": "橘癫疯Oswald",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8793544"
-      },
-      {
         "name": "橙记Orange丶",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12104,13 +11096,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10217953"
-      },
-      {
-        "name": "正直的陈易",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9365118"
       },
       {
         "name": "武义新闻综合",
@@ -12183,13 +11168,6 @@
         "url": "https://goodiptv.club/douyu/9616619"
       },
       {
-        "name": "民间高手show",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10372765"
-      },
-      {
         "name": "永嘉新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12202,13 +11180,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8"
-      },
-      {
-        "name": "永无叙V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9442980"
       },
       {
         "name": "永昌综合",
@@ -12257,13 +11228,6 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221228099/index.m3u8"
-      },
-      {
-        "name": "江苏卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://58.57.40.22:9901/tsfile/live/1031_1.m3u8"
       },
       {
@@ -12286,6 +11250,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://112.46.85.60:8009/hls/33/index.m3u8"
+      },
+      {
+        "name": "江苏卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://182.150.23.74:808/hls/18/index.m3u8"
       },
       {
         "name": "江苏城市",
@@ -12358,13 +11329,6 @@
         "url": "http://182.150.23.74:808/hls/30/index.m3u8"
       },
       {
-        "name": "汪哥说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9312685"
-      },
-      {
         "name": "汪清",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12433,13 +11397,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9720447"
-      },
-      {
-        "name": "沫子瞪片",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8783035"
       },
       {
         "name": "沭阳综合",
@@ -12523,6 +11480,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/37/index.m3u8"
+      },
+      {
+        "name": "河南卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/51/index.m3u8"
       },
       {
@@ -12540,13 +11504,6 @@
         "url": "http://222.169.85.8:9901/tsfile/live/0139_1.m3u8"
       },
       {
-        "name": "河南卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://182.150.23.74:808/hls/33/index.m3u8"
-      },
-      {
         "name": "河源公共",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12559,13 +11516,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-      },
-      {
-        "name": "油兔不二字幕组",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8850453"
       },
       {
         "name": "泌阳新闻综合",
@@ -12694,20 +11644,6 @@
         "url": "http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd"
       },
       {
-        "name": "泽静",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9055742"
-      },
-      {
-        "name": "洋房姐姐",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9172774"
-      },
-      {
         "name": "洛克电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -12803,13 +11739,6 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://223.105.252.8/PLTV/4/224/3221228147/index.m3u8"
-      },
-      {
-        "name": "浙江卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://58.57.40.22:9901/tsfile/live/1029_1.m3u8"
       },
       {
@@ -12825,6 +11754,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
+      },
+      {
+        "name": "浙江卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/22/index.m3u8"
       },
       {
         "name": "浙江卫视",
@@ -12964,7 +11900,14 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?"
+        "url": "http://101.66.198.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0"
+      },
+      {
+        "name": "浙江新闻",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://101.66.198.189:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0"
       },
       {
         "name": "浙江民生",
@@ -13146,7 +12089,7 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://39.152.103.17:8089/tsfile/live/1046_1.m3u8"
+        "url": "http://cssbyd.imwork.net:8082/hls/31/index.m3u8"
       },
       {
         "name": "海南新闻",
@@ -13217,13 +12160,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/613850"
-      },
-      {
-        "name": "涛浪浪电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5424258"
       },
       {
         "name": "涟水电视台综合",
@@ -13401,6 +12337,13 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
       },
       {
+        "name": "渔农泰叔",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/9348784"
+      },
+      {
         "name": "渔戈兄弟赶海",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13517,6 +12460,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://58.57.40.22:9901/tsfile/live/1028_1.m3u8"
+      },
+      {
+        "name": "湖南卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://74.91.26.218:82/live/hnwshd.m3u8"
       },
       {
@@ -13539,13 +12489,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/36/index.m3u8"
-      },
-      {
-        "name": "湖南卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://120.76.248.139/live/bfgd/4200000086.m3u8"
       },
       {
         "name": "湖南国际",
@@ -13653,13 +12596,6 @@
         "url": "http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
       },
       {
-        "name": "滑稽中二梦V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8829706"
-      },
-      {
         "name": "满汉女神Yangqi",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13765,13 +12701,6 @@
         "url": "https://goodiptv.club/douyu/9580477"
       },
       {
-        "name": "火柴人HyunsDojo",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9430394"
-      },
-      {
         "name": "火龙果讲电影本人",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13835,13 +12764,6 @@
         "url": "https://goodiptv.club/douyu/9388931"
       },
       {
-        "name": "热星音乐菌",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8405922"
-      },
-      {
         "name": "热门港剧",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13875,13 +12797,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/10329767"
-      },
-      {
-        "name": "爪子drumdoll",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6428730"
       },
       {
         "name": "爱唱跳Rap的胖虎",
@@ -13926,20 +12841,6 @@
         "url": "https://goodiptv.club/douyu/317409"
       },
       {
-        "name": "爱看剧的家Fat喵",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/65943"
-      },
-      {
-        "name": "爱讲神话的小志",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9495613"
-      },
-      {
         "name": "爱黏人的圆子",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13968,13 +12869,6 @@
         "url": "https://goodiptv.club/douyu/5261342"
       },
       {
-        "name": "特辑电影院",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3637778"
-      },
-      {
         "name": "犀利影评",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -13987,13 +12881,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/4332"
-      },
-      {
-        "name": "狂野的种马小说家",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8849703"
       },
       {
         "name": "狂阿弥爷",
@@ -14045,13 +12932,6 @@
         "url": "https://goodiptv.club/douyu/10074407"
       },
       {
-        "name": "猪弟驸马爷",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8862501"
-      },
-      {
         "name": "猪肉熟了",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14080,13 +12960,6 @@
         "url": "https://live.metshop.top/huya/11352879"
       },
       {
-        "name": "猫和老鼠",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://live.iill.top/huya/11352879"
-      },
-      {
         "name": "猫总白一航",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14101,46 +12974,11 @@
         "url": "https://goodiptv.club/douyu/4716"
       },
       {
-        "name": "猫眼电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8726221"
-      },
-      {
         "name": "猫记丶",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9242659"
-      },
-      {
-        "name": "猴博士爱讲课V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8799739"
-      },
-      {
-        "name": "王Li差点红",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9348469"
-      },
-      {
-        "name": "王俊凯的资源组",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8862216"
-      },
-      {
-        "name": "王坑坑聊电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9402110"
       },
       {
         "name": "王大齐吖",
@@ -14150,25 +12988,11 @@
         "url": "https://goodiptv.club/douyu/3647278"
       },
       {
-        "name": "王子和史蒂文",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9583975"
-      },
-      {
         "name": "王德发的导演小阿伟",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9430799"
-      },
-      {
-        "name": "玖月影视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9339251"
       },
       {
         "name": "玛纳斯",
@@ -14192,32 +13016,11 @@
         "url": "http://120.76.248.139/live/bfgd/4200000147.m3u8"
       },
       {
-        "name": "珞珞说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3718888"
-      },
-      {
         "name": "珲春新闻",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild"
-      },
-      {
-        "name": "理娱打挺疼",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/2925563"
-      },
-      {
-        "name": "瑟克斯潘克斯",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9370434"
       },
       {
         "name": "璧山综合",
@@ -14266,6 +13069,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/48/index.m3u8"
+      },
+      {
+        "name": "甘肃卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/119/index.m3u8"
       },
       {
@@ -14274,13 +13084,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://120.76.248.139/live/bfgd/4200000119.m3u8"
-      },
-      {
-        "name": "甘肃卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub"
       },
       {
         "name": "甘肃经济",
@@ -14332,11 +13135,11 @@
         "url": "https://goodiptv.club/douyu/9273031"
       },
       {
-        "name": "用户74691400",
+        "name": "用户4952803980",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12816147"
+        "url": "https://goodiptv.club/douyu/12817608"
       },
       {
         "name": "用青春去旅行",
@@ -14360,25 +13163,11 @@
         "url": "https://goodiptv.club/douyu/9747144"
       },
       {
-        "name": "电影七十二变",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9323164"
-      },
-      {
         "name": "电影丧尸片",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.metshop.top/huya/21059578?cdn=alicdn"
-      },
-      {
-        "name": "电影先锋V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8711212"
       },
       {
         "name": "电影八点档",
@@ -14416,6 +13205,13 @@
         "url": "http://live.metshop.top/huya/11352941?cdn=alicdn"
       },
       {
+        "name": "电影动作电影",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://live.metshop.top/huya/11602077?cdn=alicdn"
+      },
+      {
         "name": "电影吐槽汇",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14428,13 +13224,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://live.metshop.top/huya/11336587?cdn=alicdn"
-      },
-      {
-        "name": "电影嫣然影厅",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.metshop.top/huya/11601977?cdn=alicdn"
       },
       {
         "name": "电影小班长",
@@ -14472,13 +13261,6 @@
         "url": "http://live.metshop.top/huya/11342429?cdn=alicdn"
       },
       {
-        "name": "电影漩涡",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8706350"
-      },
-      {
         "name": "电影犯罪片",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14507,11 +13289,11 @@
         "url": "http://live.metshop.top/huya/21059585?cdn=alicdn"
       },
       {
-        "name": "电影谍战片",
+        "name": "电影贺岁",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://live.metshop.top/huya/21059587?cdn=alicdn"
+        "url": "http://live.metshop.top/huya/11601971?cdn=alicdn"
       },
       {
         "name": "电影迷小雅",
@@ -14533,13 +13315,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub"
-      },
-      {
-        "name": "电视这个圈儿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9425669"
       },
       {
         "name": "画渣花小烙",
@@ -14640,39 +13415,11 @@
         "url": "https://goodiptv.club/douyu/3431701"
       },
       {
-        "name": "百态人间大赏",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8724904"
-      },
-      {
         "name": "百晓生说剧",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9649681"
-      },
-      {
-        "name": "皮皮动漫星球",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8841920"
-      },
-      {
-        "name": "皮皮游戏时光",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/7553744"
-      },
-      {
-        "name": "目及WATCHER",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8712204"
       },
       {
         "name": "直播中国",
@@ -14724,13 +13471,6 @@
         "url": "https://goodiptv.club/douyu/10308234"
       },
       {
-        "name": "石头老纪",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9047060"
-      },
-      {
         "name": "碌曲",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14780,13 +13520,6 @@
         "url": "https://goodiptv.club/douyu/9575293"
       },
       {
-        "name": "神之传说sh",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9370168"
-      },
-      {
         "name": "神奇的大智",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14801,25 +13534,11 @@
         "url": "https://goodiptv.club/douyu/8891285"
       },
       {
-        "name": "神烦xp",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8286679"
-      },
-      {
         "name": "神羊说电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9443552"
-      },
-      {
-        "name": "神迹小霸霸",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8837963"
       },
       {
         "name": "福建新闻",
@@ -14927,13 +13646,6 @@
         "url": "https://goodiptv.club/douyu/9542832"
       },
       {
-        "name": "程情写意",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9191358"
-      },
-      {
         "name": "穆杉车话",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -14948,11 +13660,11 @@
         "url": "https://goodiptv.club/douyu/10351891"
       },
       {
-        "name": "竹儿公公",
+        "name": "童乐说电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8807568"
+        "url": "https://goodiptv.club/douyu/9660704"
       },
       {
         "name": "竹公子有礼了",
@@ -15004,18 +13716,18 @@
         "url": "http://ls.qingting.fm/live/276.m3u8"
       },
       {
+        "name": "管哥视频",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/10181584"
+      },
+      {
         "name": "箩卜君",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/7495810"
-      },
-      {
-        "name": "篮球之家老李",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9170147"
       },
       {
         "name": "篮球人物",
@@ -15060,13 +13772,6 @@
         "url": "https://goodiptv.club/douyu/9445279"
       },
       {
-        "name": "粤男有话儿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8764282"
-      },
-      {
         "name": "粤知一二",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15081,25 +13786,11 @@
         "url": "https://goodiptv.club/douyu/1226741"
       },
       {
-        "name": "粽子酱v",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9390685"
-      },
-      {
         "name": "精彩短剧看不停",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/11824307"
-      },
-      {
-        "name": "繁星之所在",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/6033135"
       },
       {
         "name": "纪实科教",
@@ -15172,25 +13863,11 @@
         "url": "https://yylunbo.ottiptv.cc/yy/1414812324"
       },
       {
-        "name": "绘说篮球C",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9401305"
-      },
-      {
         "name": "维塔利在野外",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9804068"
-      },
-      {
-        "name": "维立方电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8706393"
       },
       {
         "name": "绿阿掌",
@@ -15242,13 +13919,6 @@
         "url": "https://goodiptv.club/douyu/508118"
       },
       {
-        "name": "罗休休休",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9403178"
-      },
-      {
         "name": "罗先生699",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15284,13 +13954,6 @@
         "url": "http://zjrtv.vip/live/?tbs=mydy"
       },
       {
-        "name": "美人而已",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5138817"
-      },
-      {
         "name": "羽羊朩夂一",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15298,18 +13961,18 @@
         "url": "https://goodiptv.club/douyu/9533226"
       },
       {
-        "name": "羽翼天使的挽歌",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9193179"
-      },
-      {
         "name": "翦瞳秋",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9623057"
+      },
+      {
+        "name": "翼风110",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/3573342"
       },
       {
         "name": "老人家小熊猫君",
@@ -15338,13 +14001,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9687733"
-      },
-      {
-        "name": "老王的夜电影院",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3498219"
       },
       {
         "name": "老王追剧吧",
@@ -15401,13 +14057,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/4105989"
-      },
-      {
-        "name": "肥宅小草",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8887438"
       },
       {
         "name": "育碧先生v",
@@ -15508,13 +14157,6 @@
         "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8"
       },
       {
-        "name": "芊艺Remix",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/12804900"
-      },
-      {
         "name": "芒果酱Mangoo",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15543,25 +14185,11 @@
         "url": "https://goodiptv.club/douyu/7348194"
       },
       {
-        "name": "芳芳说故事",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9401905"
-      },
-      {
         "name": "苍南新闻综合",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8"
-      },
-      {
-        "name": "苏八拉西吐槽屋",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/97643"
       },
       {
         "name": "苏州4K",
@@ -15597,13 +14225,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8"
-      },
-      {
-        "name": "若轻云之蔽月兮",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9262563"
       },
       {
         "name": "英大吉来了",
@@ -15795,20 +14416,6 @@
         "url": "https://goodiptv.club/douyu/3949681"
       },
       {
-        "name": "菠萝说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3714736"
-      },
-      {
-        "name": "萌宠妙妙屋",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8653533"
-      },
-      {
         "name": "萌小鬼",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15865,13 +14472,6 @@
         "url": "https://goodiptv.club/douyu/9685770"
       },
       {
-        "name": "董王老登",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9412287"
-      },
-      {
         "name": "蓝光乐队",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -15884,13 +14484,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9431727"
-      },
-      {
-        "name": "蓝格雷",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5124602"
       },
       {
         "name": "蓝翔老三国",
@@ -15940,20 +14533,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9542834"
-      },
-      {
-        "name": "血小板呐呐",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4285043"
-      },
-      {
-        "name": "血腥丶妖瞳",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4231787"
       },
       {
         "name": "衡水公共",
@@ -16072,6 +14651,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/46/index.m3u8"
+      },
+      {
+        "name": "西藏卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://183.11.239.36:808/hls/64/index.m3u8"
       },
       {
@@ -16080,13 +14666,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://120.76.248.139/live/bfgd/4200000121.m3u8"
-      },
-      {
-        "name": "要不要请你吃元宝蜡烛",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/4168287"
       },
       {
         "name": "见世君V",
@@ -16131,6 +14710,13 @@
         "url": "https://goodiptv.club/douyu/10419558"
       },
       {
+        "name": "话很多的小姐姐们",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/8611011"
+      },
+      {
         "name": "话龙电竞",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -16164,13 +14750,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8"
-      },
-      {
-        "name": "谁语说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8705754"
       },
       {
         "name": "调侃贫道XIN版",
@@ -16254,6 +14833,13 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://cssbyd.imwork.net:8082/hls/39/index.m3u8"
+      },
+      {
+        "name": "贵州卫视",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://120.76.248.139/live/bfgd/4200000101.m3u8"
       },
       {
@@ -16269,13 +14855,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://182.150.23.74:808/hls/26/index.m3u8"
-      },
-      {
-        "name": "贵州卫视",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://111.61.236.247:9081/hls/37/index.m3u8"
       },
       {
         "name": "贵州省兴义市万峰林",
@@ -16341,11 +14920,11 @@
         "url": "https://goodiptv.club/douyu/9348766"
       },
       {
-        "name": "起来啦小躺",
+        "name": "趁我们还年轻812",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8849047"
+        "url": "https://goodiptv.club/douyu/7805562"
       },
       {
         "name": "超wu的大白兔",
@@ -16390,13 +14969,6 @@
         "url": "http://120.76.248.139/live/bfgd/4200000146.m3u8"
       },
       {
-        "name": "轩邈Elias",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9412454"
-      },
-      {
         "name": "轻风乍起的号",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -16416,13 +14988,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://stream5.jlntv.cn/hn/sd/live.m3u8"
-      },
-      {
-        "name": "辰哥说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9371407"
       },
       {
         "name": "辽宁公共",
@@ -16551,25 +15116,11 @@
         "url": "https://goodiptv.club/douyu/9486024"
       },
       {
-        "name": "迷影至下Filmlast",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9187596"
-      },
-      {
         "name": "追寻那解不开的问题",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/5727066"
-      },
-      {
-        "name": "逍遥自在白辰皓",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8859276"
       },
       {
         "name": "逐梦电影",
@@ -16894,13 +15445,6 @@
         "url": "https://goodiptv.club/douyu/9931766"
       },
       {
-        "name": "野灿baka",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8867233"
-      },
-      {
         "name": "野生岛民",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -16954,7 +15498,21 @@
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://119.32.12.17:2901/udp/224.1.100.113:11111"
+        "url": "http://101.66.198.40:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
+      },
+      {
+        "name": "金鹰卡通",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://101.66.198.12:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
+      },
+      {
+        "name": "金鹰卡通",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "http://101.66.198.189:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
       },
       {
         "name": "鎏酸v",
@@ -17013,11 +15571,11 @@
         "url": "https://goodiptv.club/douyu/9322081"
       },
       {
-        "name": "铁牛杰哥",
+        "name": "铁甲影院",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8815425"
+        "url": "https://goodiptv.club/douyu/1274132"
       },
       {
         "name": "铁血影视汇",
@@ -17041,25 +15599,11 @@
         "url": "https://ls.qingting.fm/live/21303/64k.m3u8"
       },
       {
-        "name": "锅盖哒",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9398828"
-      },
-      {
         "name": "锋哥聊商机",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9472141"
-      },
-      {
-        "name": "锦书致南辞阿",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/2894528"
       },
       {
         "name": "镇江二套社会民生",
@@ -17139,13 +15683,6 @@
         "url": "http://hplayer1.juyun.tv:80/camera/11344136.m3u8"
       },
       {
-        "name": "阎君说剧",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/10475459"
-      },
-      {
         "name": "阳仔骑行",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -17153,32 +15690,11 @@
         "url": "https://goodiptv.club/douyu/9329185"
       },
       {
-        "name": "阿九筒的春天",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3705679"
-      },
-      {
-        "name": "阿依图娜",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9047046"
-      },
-      {
         "name": "阿坤在努力",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9407329"
-      },
-      {
-        "name": "阿尔法是只边牧",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8662812"
       },
       {
         "name": "阿忙赶海",
@@ -17221,13 +15737,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9037784"
-      },
-      {
-        "name": "阿魁方言配音",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9442903"
       },
       {
         "name": "陇川综合",
@@ -17629,13 +16138,6 @@
         "url": "https://goodiptv.club/douyu/9483772"
       },
       {
-        "name": "颜雪落落落",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8864291"
-      },
-      {
         "name": "风云I人物志",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -17706,20 +16208,6 @@
         "url": "https://goodiptv.club/douyu/9722147"
       },
       {
-        "name": "马老师是马也Sama",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8821892"
-      },
-      {
-        "name": "驴哥说电影",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/5376478"
-      },
-      {
         "name": "高尔夫网球",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -17769,6 +16257,13 @@
         "url": "https://goodiptv.club/douyu/9716515"
       },
       {
+        "name": "鲤环姬Lee",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://goodiptv.club/douyu/9791703"
+      },
+      {
         "name": "鲨说电影",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -17781,20 +16276,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/5067952"
-      },
-      {
-        "name": "鸡腿子软糖",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/8695854"
-      },
-      {
-        "name": "鸡蛋高V",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9367188"
       },
       {
         "name": "鸣沙山",
@@ -17888,13 +16369,6 @@
         "url": "https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8"
       },
       {
-        "name": "黄栗子Ye",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9046097"
-      },
-      {
         "name": "黄花城水长城01",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -17935,13 +16409,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]"
-      },
-      {
-        "name": "黑T毒物",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/3579219"
       },
       {
         "name": "黑色脑回路",
@@ -18028,13 +16495,6 @@
         "url": "https://goodiptv.club/douyu/9481340"
       },
       {
-        "name": "齐木楠雄的哦呼v",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9415755"
-      },
-      {
         "name": "龙井",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
         "group": "Uncategorized",
@@ -18068,13 +16528,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/9736161"
-      },
-      {
-        "name": "龙大人不喷火zZ",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9437298"
       },
       {
         "name": "龙楼宝殿",
@@ -18124,13 +16577,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
         "url": "https://goodiptv.club/douyu/1487654"
-      },
-      {
-        "name": "龙视开心麻花街",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://goodiptv.club/douyu/9374862"
       },
       {
         "name": "龙视本山快乐营",
